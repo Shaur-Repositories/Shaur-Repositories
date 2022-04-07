@@ -1,17 +1,45 @@
-### Hi there 👋
+<br />
+<img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/>
 
-<!--
-**Shaur-Repositories/Shaur-Repositories** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kaiz Khatri 👋
 
-Here are some ideas to get you started:
+- pronouns: **he**/**him**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- tech hipster
+
+- gifted artist.
+
+- **opensourcer**
+
+- bachelor of computer science
+
+- support me on **[liberapay](https://liberapay.com/ful1e5)** or [Patreon](https://www.patreon.com/KaizKhatri)
+
+<br />
+
+<p align="center">
+  <a href="https://kaiz.vercel.app/now-playing?open">
+    <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
+  </a>
+</p>
+
+<!-- Discord: https://discord.gg/2RjkTNK -->
+<!-- Twitch: https://www.twitch.tv/ful1e5 -->
+<div align="center" style="display: flex; justify-content: space-between;">
+  <a href="https://my-store-6700798.creator-spring.com">
+    <img src="https://imgur.com/i5QFRn1.png" width="40" height="40" alt="Merch Store">
+  </a>
+  <a href="https://www.twitch.tv/ful1e5">
+    <img src="https://imgur.com/rrxPUh0.png" width="40" height="40" alt="Twitch.tv">
+  </a>
+  <a href="https://www.youtube.com/channel/UCzp1n7fo_b-oXUHtQzC5QQA/">
+    <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
+  </a>
+  <a href="https://twitter.com/ful1e5">
+    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
+  </a>
+  <a href="https://dev.to/ful1e5">
+    <img src="https://imgur.com/tO3NTaD.png" height="40" width="40" alt="Dev Community Inc.">
+  </a>
+<div>
 
