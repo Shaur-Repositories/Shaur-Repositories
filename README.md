@@ -1,4 +1,4 @@
-<br />
+ <br />
 <img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/>
 
 # Hi, I'm Shaurya 👋
@@ -137,7 +137,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
+</details> 
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
