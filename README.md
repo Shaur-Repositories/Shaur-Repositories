@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shaur-Repositories&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
