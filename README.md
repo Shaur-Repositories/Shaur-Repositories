@@ -22,11 +22,11 @@ I'm a Full Stack Web Developer from India 🇮🇳
 
 ## Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-99ffb2?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=99ffb2)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)]
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)]
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-99ffb2?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=99ffb2)]
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)]
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=e535ab)]
 
 
 
@@ -34,16 +34,16 @@ I'm a Full Stack Web Developer from India 🇮🇳
 
 <div   style="display: flex; justify-content: space-between; align-items:center;">
   
-<a href="#"><img  alt="React" width="26px" src="./assets/techLogos/react.png" /></a>
-<a href="#"><img  alt="HTML5" width="30px" src="./assets/techLogos/html5.png" /></a>
-<a href="#"><img  alt="JavaScript" width="30px" src="./assets/techLogos/javascript.png" /></a>
-<a href="#"><img  alt="Visual Studio Code" width="30px" src="./assets/techLogos/vscode.png" /></a>
-<a href="#"><img  alt="Node.js" width="30px" src="./assets/techLogos/node.png" /></a>
-<a href="#"><img  alt="GraphQL" width="30px" src="./assets/techLogos/graphql.png" /></a>
-<a href="#"><img  alt="Git" width="30px" src="./assets/techLogos/git.png" /></a>
-<a href="#"><img  alt="MongoDB" width="13.5px" src="./assets/techLogos/mongodb.png" /></a>
-<a href="#"><img  alt="css3" width="30px" src="./assets/techLogos/css3.png" /></a>
-<a href="#"><img  alt="Pyhon" width="30px" src="./assets/techLogos/pyton2.png" /></a>
+<a><img  alt="React" width="26px" src="./assets/techLogos/react.png" /></a>
+<a><img  alt="HTML5" width="30px" src="./assets/techLogos/html5.png" /></a>
+<a><img  alt="JavaScript" width="30px" src="./assets/techLogos/javascript.png" /></a>
+<a><img  alt="Visual Studio Code" width="30px" src="./assets/techLogos/vscode.png" /></a>
+<a><img  alt="Node.js" width="30px" src="./assets/techLogos/node.png" /></a>
+<a><img  alt="GraphQL" width="30px" src="./assets/techLogos/graphql.png" /></a>
+<a><img  alt="Git" width="30px" src="./assets/techLogos/git.png" /></a>
+<a><img  alt="MongoDB" width="13.5px" src="./assets/techLogos/mongodb.png" /></a>
+<a><img  alt="css3" width="30px" src="./assets/techLogos/css3.png" /></a>
+<a><img  alt="Pyhon" width="30px" src="./assets/techLogos/pyton2.png" /></a>
 
 </div>
 
