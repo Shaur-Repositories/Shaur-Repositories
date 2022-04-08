@@ -5,7 +5,7 @@
   
 <div>
   
-# Hi, There!!! <img src="./assets/gifs/handwave.gif" width="40px" alt="hi">
+# Hi There!!! <img src="./assets/gifs/handwave.gif" width="40px" alt="hi">
 
 I'm a Full Stack Web Developer from Inida 🇮🇳
 
