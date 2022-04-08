@@ -16,10 +16,10 @@ I'm Shaurya Jain a Full Stack Web Developer.
 - ❤️ Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
 </div>
 <br>
-<hr>
+
 <br>
 
-### Top Technologies
+## Top Technologies
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
@@ -27,9 +27,9 @@ I'm Shaurya Jain a Full Stack Web Developer.
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=e535ab)](#)
 
-<hr>
 
-### Tools & Technologies
+
+## Tools & Technologies
 
 <div   style="display: flex; justify-content: space-between; align-items:center;">
   
@@ -45,54 +45,52 @@ I'm Shaurya Jain a Full Stack Web Developer.
 <a href="#"><img  alt="Pyhon" width="30px" src="./assets/techLogos/pyton2.png" /></a>
 
 </div>
-<hr>
-
-
-
-### Profile Stats 
-
-<br>
-
-  
-
-  
-<div align="center" style="display: flex; justify-content: space-between;">
- <!--
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Shaur's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide_border=true&hide=Visual Basic,hack,glsl" /></a> |
-| ------------- | ------------- | -->
-  
-</div>
 
 
 
 
-<div align="center" style="display: flex; justify-content: space-between;">
-
-  **Profile Visits** ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
+## Github Stats 
 
 <br>
- 
+
+<div style="display: flex; justify-content: space-between;">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Shaur's github stats" />
+<br><br>
+Can you break it ?
+<br>
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories&left_text=Profile%20Visited)  -->
+<img src="https://komarev.com/ghpvc/?username=shaur-repositories&style=for-the-badge">
 
-  
 </div>
 <hr>
 
-### Reach out to me
+
+
+
+## Connect with me
 
 <div style="display: flex; justify-content: space-between;" >
   <a href="https://www.linkedin.com/in/shaurya-jain-24mar/" target="_blank" >
-    <img src="./assets/SocialLogos/linkedin.png" width="40" height="40" alt="Linkedin">
+<!--     <img src="./assets/SocialLogos/linkedin.png" width="40" height="40" alt="Linkedin"> -->
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.instagram.com/_shaur_/" target="_blank" >
-    <img src="./assets/SocialLogos/instagram.png" width="40" height="40" alt="Instagram">
+<!--     <img src="./assets/SocialLogos/instagram.png" width="40" height="40" alt="Instagram"> -->
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/j_shaur" target="_blank" >
-    <img src="./assets/SocialLogos/twitter1.png" width="50" height="40" alt="Twitter">
+<!--     <img src="./assets/SocialLogos/twitter2.png" width="50" height="40" alt="Twitter"> -->
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
   </a>
   <a href="https://dev.to/shaur" target="_blank" >
-    <img src="./assets/SocialLogos/devto1.png" height="40" width="40" alt="Dev Community Inc.">
+<!--     <img src="./assets/SocialLogos/devto1.png" height="40" width="40" alt="Dev Community Inc."> -->
+    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
   </a>
-<div>
-
+  <a href="https://www.facebook.com/shaur.jain.9/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+  
+</div>
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
