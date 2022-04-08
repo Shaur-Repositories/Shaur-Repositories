@@ -1,7 +1,7 @@
 <p align="center"><a href="#"><img width="80%" src="./assets/header.png" /></a></p>
 
 
-<img src="./assets/gifs/pcguy.gif" align="left" width="350px" alt="guy on pc"/>
+<img src="./assets/gifs/pcguy.gif" align="right" width="450px" alt="guy on pc"/>
   
 <div>
   
@@ -16,7 +16,6 @@ I'm Shaurya Jain a Full Stack Web Developer.
 - ❤️ Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
 </div>
 <br>
-
 <br>
 
 ## Top Technologies
@@ -57,7 +56,7 @@ I'm Shaurya Jain a Full Stack Web Developer.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl&hide_border=true" />
 <br><br>
-Can you break it ?
+Break It !!!
 <br>
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories&left_text=Profile%20Visited)  -->
 <img src="https://komarev.com/ghpvc/?username=shaur-repositories&style=for-the-badge">
