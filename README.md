@@ -34,6 +34,8 @@ I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
 
+<img align="left" alt="Pyhon" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" />
+
 <br />
 
 
