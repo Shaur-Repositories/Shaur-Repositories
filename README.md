@@ -17,6 +17,7 @@ I'm Shaurya Jain a Full Stack Web Developer.
 </div>
 <br>
 <hr>
+<br>
 
 ### Top Technologies
 
