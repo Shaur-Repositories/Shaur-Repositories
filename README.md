@@ -35,17 +35,11 @@ I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](htt
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
 
 <br />
-<br />
-
-
 
 
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
-
-
-
 
 
 <details>
