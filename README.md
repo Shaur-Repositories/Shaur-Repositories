@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="80%" src="./assets/header.png" /></a></p>
+<p align="center"><a href="#"><img width="80%" src="./assets/header1.png" /></a></p>
 
 
 <img src="./assets/gifs/pcguy.gif" align="right" width="400px" alt="guy on pc"/>
