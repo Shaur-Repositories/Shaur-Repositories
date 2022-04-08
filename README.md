@@ -4,9 +4,7 @@
 
 <div style="display:flex; justify-content: space-between; flex-gap:50px;">
 
-<div><img src="./assets/gifs/pcguy.gif" align="left" width="350" alt="guy on pc"/></div>
-
-<div>
+<div width="350">
   
 # Hi There!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
@@ -18,6 +16,9 @@ I'm Shaurya Jain a Full Stack Web Developer.
 - ⚡ Fun fact: I play games on my PS5 and go to the GYM very often.
 - Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
 </div>
+  
+<div><img src="./assets/gifs/pcguy.gif" align="right" width="350" alt="guy on pc"/></div>
+ 
 </div>
 <br>
 <hr>
