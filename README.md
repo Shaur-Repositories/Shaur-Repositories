@@ -1,18 +1,21 @@
 <p align="center"><a href="#"><img width="80%" src="./assets/header.png" /></a></p>
 
 
-<img src="./assets/gifs/pcguy.gif" align="right" width="450px" alt="guy on pc"/>
+<img src="./assets/gifs/pcguy.gif" align="right" width="400px" alt="guy on pc"/>
   
 <div>
   
-# Hi There!!! <img src="./assets/gifs/handwave.gif" width="28px" alt="hi">
+# Hi, There!!! <img src="./assets/gifs/handwave.gif" width="40px" alt="hi">
 
-I'm Shaurya Jain a Full Stack Web Developer.
+I'm a Full Stack Web Developer from Inida 🇮🇳
+
+**ABOUT ME**
+<br>
 
 - 🔭 Frontend Developer at [Infosys](https://www.infosys.com/).
-- :computer: Current Stack : MERN and Apache Solr
+- :computer: Current Stack : MERN and Apache Solr.
 - 📫 Reach me at : shaurya.jain.email@gmail.com.
-- ⚡ Fun fact: I play games on my PS5 and go to the GYM very often.
+- ⚡ Fun fact: I play games on PS5 and go to the GYM very often.
 - ❤️ Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
 </div>
 <br>
@@ -52,7 +55,7 @@ I'm Shaurya Jain a Full Stack Web Developer.
 
 <br>
 
-<div style="display: flex; justify-content: space-between;">
+<div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl&hide_border=true" />
 <br><br>
