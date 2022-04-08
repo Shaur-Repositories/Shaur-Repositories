@@ -1,4 +1,5 @@
-<p align="center"><a href="#"><img width="120%" src="./Assets/png2.png" /></a></p>
+<p align="center"><a href="#"><img width="60%" src="./Assets/png2.png" /></a></p>
+
 # Hi There!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
@@ -69,7 +70,7 @@ I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 <div align="center" style="display: flex; justify-content: space-between; border:'2px solid red'">
   
-<img  height="170px" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs&show_icons=true&include_all_commits=true&theme=react" alt="Shaur's github stats" />
+<img  width="500px" height="170px" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs&show_icons=true&include_all_commits=true&theme=react" alt="Shaur's github stats" />
 <img   height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl" />
 
 </div>
