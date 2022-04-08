@@ -1,7 +1,13 @@
 <p align="center"><a href="#"><img width="80%" src="./assets/header.png" /></a></p>
 
+#### Profile Visits
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
+
 <br />
 
+
+<img src="./assets/gifs/pcguy.gif" align="left" width="400" alt="guy on pc"/>
   
 # Hi There!!! <img src="./assets/gifs/handwave.gif" width="28px" alt="hi">
 
@@ -13,8 +19,7 @@ I'm Shaurya Jain a Full Stack Web Developer.
 - ⚡ Fun fact: I play games on my PS5 and go to the GYM very often.
 - Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
 
-  
-<img src="./assets/gifs/pcguy.gif" width="400" alt="guy on pc"/>
+
 
 
 
@@ -47,19 +52,13 @@ I'm Shaurya Jain a Full Stack Web Developer.
 
 <details>
 <summary>
-  More stuff about me
+Profile Stats : 
 </summary>
 
-#### Profile Visits
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
 
 <br/>
-
-
-</details>
-
-
+  
 
 <div align="center" style="display: flex; justify-content: space-between;">
   
@@ -74,6 +73,12 @@ I'm Shaurya Jain a Full Stack Web Developer.
 <img  width="500px" height="170px" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs&show_icons=true&include_all_commits=true&theme=react" alt="Shaur's github stats" />
 <img   height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl" />
 </div>
+
+
+</details>
+
+
+
 
 
 
