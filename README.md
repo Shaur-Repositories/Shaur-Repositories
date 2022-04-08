@@ -79,13 +79,13 @@ I'm Shaurya Jain a Full Stack Web Developer.
 
 <div align="center" style="display: flex; justify-content: space-between;">
   <a href="https://www.linkedin.com/in/shaurya-jain-24mar/">
-    <img src="./assets/SocialLogos/linkedin.png" width="30" height="30" alt="Linkedin">
+    <img src="./assets/SocialLogos/linkedin.png" width="40" height="40" alt="Linkedin">
   </a>
   <a href="https://www.instagram.com/_shaur_/">
-    <img src="./assets/SocialLogos/instagram.png" width="30" height="30" alt="Instagram">
+    <img src="./assets/SocialLogos/instagram.png" width="40" height="40" alt="Instagram">
   </a>
   <a href="https://twitter.com/j_shaur">
-    <img src="./assets/SocialLogos/twitter.png" width="30" height="30" alt="Twitter">
+    <img src="./assets/SocialLogos/twitter.png" width="40" height="40" alt="Twitter">
   </a>
   <a href="https://dev.to/shaur">
     <img src="./assets/SocialLogos/devto.png" height="30" width="30" alt="Dev Community Inc.">
