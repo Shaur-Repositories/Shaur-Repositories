@@ -19,7 +19,6 @@ I'm a Full Stack Web Developer from Inida 🇮🇳
 - ❤️ Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
 </div>
 <br>
-<br>
 
 ## Top Technologies
 
