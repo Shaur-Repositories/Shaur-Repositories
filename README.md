@@ -1,11 +1,6 @@
 <p align="center"><a href="#"><img width="80%" src="./assets/header.png" /></a></p>
 
-#### Profile Visits
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
-
 <br />
-
 
 <img src="./assets/gifs/pcguy.gif" align="left" width="400" alt="guy on pc"/>
   
@@ -19,9 +14,7 @@ I'm Shaurya Jain a Full Stack Web Developer.
 - ⚡ Fun fact: I play games on my PS5 and go to the GYM very often.
 - Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
 
-
-
-
+<hr>
 
 ### Top Technologies
 
@@ -54,9 +47,11 @@ I'm Shaurya Jain a Full Stack Web Developer.
 <summary>
 Profile Stats : 
 </summary>
+  
+#### Profile Visits
 
-
-
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
+  
 <br/>
   
 
@@ -77,10 +72,7 @@ Profile Stats :
 
 </details>
 
-
-
-
-
+## Let's Connect : 
 
 <div align="center" style="display: flex; justify-content: space-between;">
   <a href="https://www.linkedin.com/in/shaurya-jain-24mar/">
