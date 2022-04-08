@@ -1,56 +1,65 @@
-<p align="center"><a href="#"><img width="70%" src="./Assets/gitReadme_banner.png" /></a></p>
+<p align="center"><a href="#"><img width="80%" src="./assets/header.png" /></a></p>
 
+<br />
+
+<div style="display:flex; justify-content: space-between; flex-gap:50px;">
+
+<div><img src="./assets/gifs/pcguy.gif" align="left" width="350" alt="guy on pc"/></div>
+
+<div>
+  
 # Hi There!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Shaurya Jain a Full Stack Web Developer.
 
 - 🔭 I’m currently working as Frontend Developer at [Infosys](https://www.infosys.com/).
 - :computer: Current Stack : MERN and Apache Solr
 - 📫 Hreach me at : shaurya.jain.email@gmail.com.
 - ⚡ Fun fact: I play games on my PS5 and go to the GYM very often.
 - Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
+</div>
+</div>
+<br>
+<hr>
 
 ### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-99ffb2?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=99ffb2)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-99ffb2?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=99ffb2)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=e535ab)](#)
 
 ### Tools & Technologies
 
-<img align="left" alt="React" width="26px" src="https://miro.medium.com/max/1400/1*BFV8Gwt5BILa-xv04IK2ng.png" />
+<div   style="display: flex; justify-content: space-between;">
+  
+<a href="#"><img  alt="React" width="26px" src="./assets/techLogos/react.png" /></a>
+<a href="#"><img  alt="HTML5" width="30px" src="./assets/techLogos/html5.png" /></a>
+<a href="#"><img  alt="JavaScript" width="30px" src="./assets/techLogos/javascript.png" /></a>
+<a href="#"><img  alt="Visual Studio Code" width="30px" src="./assets/techLogos/vscode.png" /></a>
+<a href="#"><img  alt="Node.js" width="30px" src="./assets/techLogos/node.png" /></a>
+<a href="#"><img  alt="GraphQL" width="30px" src="./assets/techLogos/graphql.png" /></a>
+<a href="#"><img  alt="Git" width="30px" src="./assets/techLogos/git.png" /></a>
+<a href="#"><img  alt="MongoDB" width="13.5px" src="./assets/techLogos/mongodb.png" /></a>
+<a href="#"><img  alt="css3" width="30px" src="./assets/techLogos/css3.png" /></a>
+<a href="#"><img  alt="Pyhon" width="30px" src="./assets/techLogos/pyton2.png" /></a>
 
-<img align="left" alt="HTML5" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
+</div>
 
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="GraphQL" width="30px" src="https://tkssharma.com/static/e92ee52a822755019731cffc0b44e3d4/1e9e2/graphql.png" />
-
-<img align="left" alt="Git" width="30px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
-
-<img align="left" alt="MongoDB" width="13.5px" src="https://www.nicepng.com/png/full/383-3839082_our-products-database-mongodb-leaf.png" />
-
-<img align="left" alt="css3" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/240px-Devicon-css3-plain.svg.png" />
-
-<img align="left" alt="Pyhon" width="30px" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" />
-
-<br />
-
-
-#### Profile Visits
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
 
 
 <details>
 <summary>
   More stuff about me
 </summary>
+
+#### Profile Visits
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
+
+
+
 
 <br/>
 
