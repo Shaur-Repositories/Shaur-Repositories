@@ -2,7 +2,7 @@
 
 I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
 
-- 🔭 I’m currently working as Frontend Developer at @Infosys
+- 🔭 I’m currently working as Frontend Developer at [Infosys](https://www.infosys.com/).
 - :computer: Current Stack : MERN and Apache Solr
 - 📫 Hreach me at : shaurya.jain.email@gmail.com.
 - ⚡ Fun fact: I play games on my PS5 and go to the GYM very often.
@@ -16,15 +16,15 @@ I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 ### Tools & Technologies
 
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="26px" src="https://miro.medium.com/max/1400/1*BFV8Gwt5BILa-xv04IK2ng.png" />
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
 
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="css3" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/240px-Devicon-css3-plain.svg.png" />
 
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
@@ -32,9 +32,9 @@ I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 <img align="left" alt="Git" width="30px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
 
-<img align="left" alt="MongoDB" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://icons-for-free.com/iconfiles/png/512/mongodb+plain+wordmark-1324760553130770870.png" />
 
-<img align="left" alt="Pyhon" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" />
+<img align="left" alt="Pyhon" width="30px" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" />
 
 <br />
 
@@ -67,9 +67,12 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 
 
-
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Shaur's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide_border=true" /></a> |
+<div align="center" style="display: flex; justify-content: space-between;">
+  
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Shaur's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide_border=true&hide=Visual Basic,hack,glsl" /></a> |
 | ------------- | ------------- |
+  
+</div>
 
 
 
