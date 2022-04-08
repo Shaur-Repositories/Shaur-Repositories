@@ -63,14 +63,10 @@ Can you break it ?
 <img src="https://komarev.com/ghpvc/?username=shaur-repositories&style=for-the-badge">
 
 </div>
-<hr>
-
-
-
 
 ## Connect with me
 
-<div style="display: flex; justify-content: space-between;" >
+<div align="center" >
   <a href="https://www.linkedin.com/in/shaurya-jain-24mar/" target="_blank" >
 <!--     <img src="./assets/SocialLogos/linkedin.png" width="40" height="40" alt="Linkedin"> -->
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
