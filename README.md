@@ -7,7 +7,7 @@
   
 # Hi There!!! <img src="./assets/gifs/handwave.gif" width="35px" alt="hi">
 
-I'm a Full Stack Web Developer from Inida 🇮🇳
+I'm a Full Stack Web Developer from India 🇮🇳
 
 **ABOUT ME**
 <br>
