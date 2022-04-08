@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="60%" src="./Assets/gitReadme_banner.png" /></a></p>
+<p align="center"><a href="#"><img width="70%" src="./Assets/gitReadme_banner.png" /></a></p>
 
 # Hi There!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
@@ -27,14 +27,13 @@ I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](htt
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
-
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="GraphQL" width="30px" src="https://tkssharma.com/static/e92ee52a822755019731cffc0b44e3d4/1e9e2/graphql.png" />
 
 <img align="left" alt="Git" width="30px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
 
-<img align="left" alt="MongoDB2" width="13.5px" src="https://www.nicepng.com/png/full/383-3839082_our-products-database-mongodb-leaf.png" />
+<img align="left" alt="MongoDB" width="13.5px" src="https://www.nicepng.com/png/full/383-3839082_our-products-database-mongodb-leaf.png" />
 
 <img align="left" alt="css3" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/240px-Devicon-css3-plain.svg.png" />
 
@@ -74,6 +73,17 @@ I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](htt
 <img   height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl" />
 
 </div>
+
+<div align="center" style="display: flex; justify-content: space-between;">
+ 
+ 
+  <a href="https://twitter.com/ful1e5">
+    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
+  </a>
+  <a href="https://dev.to/ful1e5">
+    <img src="https://imgur.com/tO3NTaD.png" height="40" width="40" alt="Dev Community Inc.">
+  </a>
+<div>
 
 
 
