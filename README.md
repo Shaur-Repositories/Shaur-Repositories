@@ -24,7 +24,7 @@ I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="css3" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/240px-Devicon-css3-plain.svg.png" />
+
 
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
@@ -32,7 +32,9 @@ I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 <img align="left" alt="Git" width="30px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
 
-<img align="left" alt="MongoDB" width="30px" src="https://icons-for-free.com/iconfiles/png/512/mongodb+plain+wordmark-1324760553130770870.png" />
+<img align="left" alt="MongoDB2" width="13.5px" src="https://www.nicepng.com/png/full/383-3839082_our-products-database-mongodb-leaf.png" />
+
+<img align="left" alt="css3" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Devicon-css3-plain.svg/240px-Devicon-css3-plain.svg.png" />
 
 <img align="left" alt="Pyhon" width="30px" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" />
 
