@@ -1,12 +1,11 @@
 <p align="center"><a href="#"><img width="80%" src="./assets/header.png" /></a></p>
 
-<br />
 
-<img src="./assets/gifs/pcguy.gif" align="left" width="400" alt="guy on pc"/>
+<img src="./assets/gifs/pcguy.gif" align="left" width="350px" alt="guy on pc"/>
   
 <div>
-
-## Hi There!!! <img src="./assets/gifs/handwave.gif" width="28px" alt="hi">
+  
+# Hi There!!! <img src="./assets/gifs/handwave.gif" width="28px" alt="hi">
 
 I'm Shaurya Jain a Full Stack Web Developer.
 
@@ -16,6 +15,7 @@ I'm Shaurya Jain a Full Stack Web Developer.
 - ⚡ Fun fact: I play games on my PS5 and go to the GYM very often.
 - Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
 </div>
+<br>
 <hr>
 
 ### Top Technologies
@@ -25,6 +25,8 @@ I'm Shaurya Jain a Full Stack Web Developer.
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-99ffb2?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=99ffb2)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=e535ab)](#)
+
+<hr>
 
 ### Tools & Technologies
 
@@ -42,15 +44,15 @@ I'm Shaurya Jain a Full Stack Web Developer.
 <a href="#"><img  alt="Pyhon" width="30px" src="./assets/techLogos/pyton2.png" /></a>
 
 </div>
-
-
+<hr>
+<br>
 
 <details>
 <summary>
 Profile Stats : 
 </summary>
   
-#### Profile Visits
+### Profile Visits
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
   
@@ -58,23 +60,28 @@ Profile Stats :
   
 
 <div align="center" style="display: flex; justify-content: space-between;">
-  
+ <!--
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Shaur's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide_border=true&hide=Visual Basic,hack,glsl" /></a> |
-| ------------- | ------------- |
+| ------------- | ------------- | -->
   
 </div>
 
 
 <div align="center" style="display: flex; justify-content: space-between; border:'2px solid red'">
   
-<img  width="500px" height="170px" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs&show_icons=true&include_all_commits=true&theme=react" alt="Shaur's github stats" />
-<img   height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl" />
+<img src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs&show_icons=true&include_all_commits=true&theme=react" alt="Shaur's github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl" />
+  
 </div>
 
 
 </details>
 
-## Let's Connect : 
+<br>
+<hr>
+<br>
+
+### Let's Connect : 
 
 <div align="center" style="display: flex; justify-content: space-between;">
   <a href="https://www.linkedin.com/in/shaurya-jain-24mar/">
