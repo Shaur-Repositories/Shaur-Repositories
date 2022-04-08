@@ -68,7 +68,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shaur's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Shaur's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
