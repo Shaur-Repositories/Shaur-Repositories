@@ -4,7 +4,9 @@
 
 <img src="./assets/gifs/pcguy.gif" align="left" width="400" alt="guy on pc"/>
   
-# Hi There!!! <img src="./assets/gifs/handwave.gif" width="28px" alt="hi">
+<div>
+
+## Hi There!!! <img src="./assets/gifs/handwave.gif" width="28px" alt="hi">
 
 I'm Shaurya Jain a Full Stack Web Developer.
 
@@ -13,7 +15,7 @@ I'm Shaurya Jain a Full Stack Web Developer.
 - 📫 Hreach me at : shaurya.jain.email@gmail.com.
 - ⚡ Fun fact: I play games on my PS5 and go to the GYM very often.
 - Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
-
+</div>
 <hr>
 
 ### Top Technologies
