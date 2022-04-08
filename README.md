@@ -85,16 +85,16 @@ Profile Stats :
 ### Let's Connect : 
 
 <div align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://www.linkedin.com/in/shaurya-jain-24mar/">
+  <a href="https://www.linkedin.com/in/shaurya-jain-24mar/" target="_blank">
     <img src="./assets/SocialLogos/linkedin.png" width="40" height="40" alt="Linkedin">
   </a>
-  <a href="https://www.instagram.com/_shaur_/">
+  <a href="https://www.instagram.com/_shaur_/" target="_blank">
     <img src="./assets/SocialLogos/instagram.png" width="40" height="40" alt="Instagram">
   </a>
-  <a href="https://twitter.com/j_shaur">
+  <a href="https://twitter.com/j_shaur" target="_blank">
     <img src="./assets/SocialLogos/twitter1.png" width="50" height="40" alt="Twitter">
   </a>
-  <a href="https://dev.to/shaur">
+  <a href="https://dev.to/shaur" target="_blank">
     <img src="./assets/SocialLogos/devto1.png" height="40" width="40" alt="Dev Community Inc.">
   </a>
 <div>
