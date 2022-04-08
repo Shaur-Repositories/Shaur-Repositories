@@ -43,7 +43,7 @@ I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
 
 
 <details>
@@ -53,17 +53,6 @@ I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 <br/>
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-
-#### Coding Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10?&layout=compact)](#)
-
-
-
-#### Github Stats
-
-![Shaurya's github stats](https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs,prs)
 
 </details>
 
@@ -74,6 +63,14 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Shaur's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide_border=true&hide=Visual Basic,hack,glsl" /></a> |
 | ------------- | ------------- |
   
+</div>
+
+
+<div align="center" style="display: flex; justify-content: space-between; border:'2px solid red'">
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Shaur's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide_border=true&hide=Visual Basic,hack,glsl" />
+
 </div>
 
 
