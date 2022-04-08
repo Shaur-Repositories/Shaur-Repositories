@@ -88,7 +88,7 @@ I'm Shaurya Jain a Full Stack Web Developer.
     <img src="./assets/SocialLogos/twitter.png" width="40" height="40" alt="Twitter">
   </a>
   <a href="https://dev.to/shaur">
-    <img src="./assets/SocialLogos/devto.png" height="30" width="30" alt="Dev Community Inc.">
+    <img src="./assets/SocialLogos/devto1.png" height="40" width="40" alt="Dev Community Inc.">
   </a>
 <div>
 
