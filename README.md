@@ -1,11 +1,11 @@
 <p align="center"><a href="#"><img width="80%" src="./assets/header1.png" /></a></p>
 
 
-<img src="./assets/gifs/pcguy.gif" align="right" width="400px" alt="guy on pc"/>
+<a href="#"><img src="./assets/gifs/pcguy.gif" align="right" width="400px" alt="guy on pc"/></a>
   
 <div>
   
-# Hi There!!! <img src="./assets/gifs/handwave.gif" width="35px" alt="hi">
+# Hi There!!! <a href="#"><img src="./assets/gifs/handwave.gif" width="35px" alt="hi"></a>
 
 I'm a Full Stack Web Developer from India 🇮🇳
 
@@ -32,7 +32,7 @@ I'm a Full Stack Web Developer from India 🇮🇳
 
 ## Tools & Technologies
 
-<div   style="display: flex; justify-content: space-between; align-items:center;">
+<div>
   
 <a href="#"><img  alt="React" width="26px" src="./assets/techLogos/react.png" /></a>
 <a href="#"><img  alt="HTML5" width="30px" src="./assets/techLogos/html5.png" /></a>
@@ -51,12 +51,12 @@ I'm a Full Stack Web Developer from India 🇮🇳
 
 <br>
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl&hide_border=true" />
+<a href="#">img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl&hide_border=true" /></a>
 <br><br>
 Break It !!!
 <br>
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories&left_text=Profile%20Visited)  -->
-<img src="https://komarev.com/ghpvc/?username=shaur-repositories&style=for-the-badge">
+<a href="#"><img src="https://komarev.com/ghpvc/?username=shaur-repositories&style=for-the-badge"></a>
 </div>
 
 ## Connect with me
