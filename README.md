@@ -48,22 +48,16 @@ I'm a Full Stack Web Developer from Inida 🇮🇳
 
 </div>
 
-
-
-
 ## Github Stats 
 
 <br>
-
 <div>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl&hide_border=true" />
 <br><br>
 Break It !!!
 <br>
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories&left_text=Profile%20Visited)  -->
 <img src="https://komarev.com/ghpvc/?username=shaur-repositories&style=for-the-badge">
-
 </div>
 
 ## Connect with me
@@ -80,7 +74,6 @@ Break It !!!
   <a href="https://twitter.com/j_shaur" target="_blank" >
 <!--     <img src="./assets/SocialLogos/twitter2.png" width="50" height="40" alt="Twitter"> -->
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-
   </a>
   <a href="https://dev.to/shaur" target="_blank" >
 <!--     <img src="./assets/SocialLogos/devto1.png" height="40" width="40" alt="Dev Community Inc."> -->
@@ -89,6 +82,6 @@ Break It !!!
   <a href="https://www.facebook.com/shaur.jain.9/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-  
 </div>
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+ <a> <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> </a>
