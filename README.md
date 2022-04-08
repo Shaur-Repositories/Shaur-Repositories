@@ -68,8 +68,8 @@ I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 <div align="center" style="display: flex; justify-content: space-between; border:'2px solid red'">
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Shaur's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide_border=true&hide=Visual Basic,hack,glsl" />
+<img  height="170px" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs&show_icons=true&include_all_commits=true&theme=react" alt="Shaur's github stats" />
+<img   height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl" />
 
 </div>
 
