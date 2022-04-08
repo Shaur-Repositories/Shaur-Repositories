@@ -2,11 +2,8 @@
 
 <br />
 
-<div style="display:flex; justify-content: space-between; flex-gap:50px;">
-
-<div width="350">
   
-# Hi There!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi There!!! <img src="./assets/gifs/handwave.gif" width="28px" alt="hi">
 
 I'm Shaurya Jain a Full Stack Web Developer.
 
@@ -15,13 +12,11 @@ I'm Shaurya Jain a Full Stack Web Developer.
 - 📫 Hreach me at : shaurya.jain.email@gmail.com.
 - ⚡ Fun fact: I play games on my PS5 and go to the GYM very often.
 - Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
-</div>
+
   
-<div><img src="./assets/gifs/pcguy.gif" align="right" width="350" alt="guy on pc"/></div>
- 
-</div>
-<br>
-<hr>
+<img src="./assets/gifs/pcguy.gif" width="400" alt="guy on pc"/>
+
+
 
 ### Top Technologies
 
@@ -33,7 +28,7 @@ I'm Shaurya Jain a Full Stack Web Developer.
 
 ### Tools & Technologies
 
-<div   style="display: flex; justify-content: space-between;">
+<div   style="display: flex; justify-content: space-between; align-items:center;">
   
 <a href="#"><img  alt="React" width="26px" src="./assets/techLogos/react.png" /></a>
 <a href="#"><img  alt="HTML5" width="30px" src="./assets/techLogos/html5.png" /></a>
@@ -59,9 +54,6 @@ I'm Shaurya Jain a Full Stack Web Developer.
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
 
-
-
-
 <br/>
 
 
@@ -81,69 +73,22 @@ I'm Shaurya Jain a Full Stack Web Developer.
   
 <img  width="500px" height="170px" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs&show_icons=true&include_all_commits=true&theme=react" alt="Shaur's github stats" />
 <img   height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl" />
-
 </div>
 
+
+
 <div align="center" style="display: flex; justify-content: space-between;">
- 
- 
-  <a href="https://twitter.com/ful1e5">
-    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
+  <a href="https://www.linkedin.com/in/shaurya-jain-24mar/">
+    <img src="./assets/SocialLogos/linkedin.png" width="30" height="30" alt="Linkedin">
   </a>
-  <a href="https://dev.to/ful1e5">
-    <img src="https://imgur.com/tO3NTaD.png" height="40" width="40" alt="Dev Community Inc.">
+  <a href="https://www.instagram.com/_shaur_/">
+    <img src="./assets/SocialLogos/instagram.png" width="30" height="30" alt="Instagram">
+  </a>
+  <a href="https://twitter.com/j_shaur">
+    <img src="./assets/SocialLogos/twitter.png" width="30" height="30" alt="Twitter">
+  </a>
+  <a href="https://dev.to/shaur">
+    <img src="./assets/SocialLogos/devto.png" height="30" width="30" alt="Dev Community Inc.">
   </a>
 <div>
 
-
-
-
-
-
-
-<br />
-<img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/>
-
-# Hi, I'm Kaiz Khatri 👋
-
-- pronouns: **he**/**him**
-
-- tech hipster
-
-- gifted artist.
-
-- **opensourcer**
-
-- bachelor of computer science
-
-- support me on **[liberapay](https://liberapay.com/ful1e5)** or [Patreon](https://www.patreon.com/KaizKhatri)
-
-<br />
-
-<p align="center">
-  <a href="https://kaiz.vercel.app/now-playing?open">
-    <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
-  </a>
-</p>
-
-<!-- Discord: https://discord.gg/2RjkTNK -->
-<!-- Twitch: https://www.twitch.tv/ful1e5 -->
-<div align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://my-store-6700798.creator-spring.com">
-    <img src="https://imgur.com/i5QFRn1.png" width="40" height="40" alt="Merch Store">
-  </a>
-  <a href="https://www.twitch.tv/ful1e5">
-    <img src="https://imgur.com/rrxPUh0.png" width="40" height="40" alt="Twitch.tv">
-  </a>
-  <a href="https://www.youtube.com/channel/UCzp1n7fo_b-oXUHtQzC5QQA/">
-    <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
-  </a>
-  <a href="https://twitter.com/ful1e5">
-    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
-  </a>
-  <a href="https://dev.to/ful1e5">
-    <img src="https://imgur.com/tO3NTaD.png" height="40" width="40" alt="Dev Community Inc.">
-  </a>
-<div>
-© 2022 GitHub, Inc.
-Term
