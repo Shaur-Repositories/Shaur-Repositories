@@ -22,11 +22,11 @@ I'm a Full Stack Web Developer from India 🇮🇳
 
 ## Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-99ffb2?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=99ffb2)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#Top-Technologies)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#Top-Technologies)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-99ffb2?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=99ffb2)](#Top-Technologies)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#Top-Technologies)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=e535ab)](#Top-Technologies)
 
 
 
@@ -34,16 +34,16 @@ I'm a Full Stack Web Developer from India 🇮🇳
 
 <div>
   
-<a href="#"><img  alt="React" width="26px" src="./assets/techLogos/react.png" /></a>
-<a href="#"><img  alt="HTML5" width="30px" src="./assets/techLogos/html5.png" /></a>
-<a href="#"><img  alt="JavaScript" width="30px" src="./assets/techLogos/javascript.png" /></a>
-<a href="#"><img  alt="Visual Studio Code" width="30px" src="./assets/techLogos/vscode.png" /></a>
-<a href="#"><img  alt="Node.js" width="30px" src="./assets/techLogos/node.png" /></a>
-<a href="#"><img  alt="GraphQL" width="30px" src="./assets/techLogos/graphql.png" /></a>
-<a href="#"><img  alt="Git" width="30px" src="./assets/techLogos/git.png" /></a>
-<a href="#"><img  alt="MongoDB" width="13.5px" src="./assets/techLogos/mongodb.png" /></a>
-<a href="#"><img  alt="css3" width="30px" src="./assets/techLogos/css3.png" /></a>
-<a href="#"><img  alt="Pyhon" width="30px" src="./assets/techLogos/pyton2.png" /></a>
+<a href="#Tools-&-Technologies"><img  alt="React" width="26px" src="./assets/techLogos/react.png" /></a>
+<a href="#Tools-&-Technologies"><img  alt="HTML5" width="30px" src="./assets/techLogos/html5.png" /></a>
+<a href="#Tools-&-Technologies"><img  alt="JavaScript" width="30px" src="./assets/techLogos/javascript.png" /></a>
+<a href="#Tools-&-Technologies"><img  alt="Visual Studio Code" width="30px" src="./assets/techLogos/vscode.png" /></a>
+<a href="#Tools-&-Technologies"><img  alt="Node.js" width="30px" src="./assets/techLogos/node.png" /></a>
+<a href="#Tools-&-Technologies"><img  alt="GraphQL" width="30px" src="./assets/techLogos/graphql.png" /></a>
+<a href="#Tools-&-Technologies"><img  alt="Git" width="30px" src="./assets/techLogos/git.png" /></a>
+<a href="#Tools-&-Technologies"><img  alt="MongoDB" width="13.5px" src="./assets/techLogos/mongodb.png" /></a>
+<a href="#Tools-&-Technologies"><img  alt="css3" width="30px" src="./assets/techLogos/css3.png" /></a>
+<a href="#Tools-&-Technologies"><img  alt="Pyhon" width="30px" src="./assets/techLogos/pyton2.png" /></a>
 
 </div>
 
@@ -51,12 +51,12 @@ I'm a Full Stack Web Developer from India 🇮🇳
 
 <br>
 <div>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl&hide_border=true" /></a>
+<a href="#Githu-Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl&hide_border=true" /></a>
 <br><br>
 Break It !!!
 <br>
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories&left_text=Profile%20Visited)  -->
-<a href="#"><img src="https://komarev.com/ghpvc/?username=shaur-repositories&style=for-the-badge"></a>
+<a href="#Github-Stats"><img src="https://komarev.com/ghpvc/?username=shaur-repositories&style=for-the-badge"></a>
 </div>
 
 ## Connect with me
