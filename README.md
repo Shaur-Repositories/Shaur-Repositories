@@ -83,4 +83,4 @@ Break It !!!
 </a>
 </div>
 
- <div> <img width="1000px"  alt="Thanks for visiting me" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> </div>
+
