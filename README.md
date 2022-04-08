@@ -5,7 +5,7 @@
   
 <div>
   
-# Hi There!!! <img src="./assets/gifs/handwave.gif" width="40px" alt="hi">
+# Hi There!!! <img src="./assets/gifs/handwave.gif" width="35px" alt="hi">
 
 I'm a Full Stack Web Developer from Inida 🇮🇳
 
@@ -13,7 +13,7 @@ I'm a Full Stack Web Developer from Inida 🇮🇳
 <br>
 
 - 🔭 Frontend Developer at [Infosys](https://www.infosys.com/).
-- :computer: Current Stack : MERN and Apache Solr.
+- :computer: Currently Working wiht: MERN Stack and Apache Solr.
 - 📫 Reach me at : shaurya.jain.email@gmail.com.
 - ⚡ Fun fact: I play games on PS5 and go to the GYM very often.
 - ❤️ Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
@@ -83,4 +83,4 @@ Break It !!!
 </a>
 </div>
 
- <a> <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> </a>
+ <a> <img height="120" alt="Thanks for visiting me" width="1000px" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> </a>
