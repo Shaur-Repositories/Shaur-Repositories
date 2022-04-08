@@ -9,11 +9,11 @@
 
 I'm Shaurya Jain a Full Stack Web Developer.
 
-- 🔭 I’m currently working as Frontend Developer at [Infosys](https://www.infosys.com/).
+- 🔭 Frontend Developer at [Infosys](https://www.infosys.com/).
 - :computer: Current Stack : MERN and Apache Solr
-- 📫 Hreach me at : shaurya.jain.email@gmail.com.
+- 📫 Reach me at : shaurya.jain.email@gmail.com.
 - ⚡ Fun fact: I play games on my PS5 and go to the GYM very often.
-- Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
+- ❤️ Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
 </div>
 <br>
 <hr>
@@ -46,20 +46,16 @@ I'm Shaurya Jain a Full Stack Web Developer.
 
 </div>
 <hr>
+
+
+
+### Profile Stats 
+
 <br>
 
-<details>
-<summary>
-Profile Stats : 
-</summary>
-  
-### Profile Visits
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
-  
-<br/>
   
 
+  
 <div align="center" style="display: flex; justify-content: space-between;">
  <!--
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Shaur's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide_border=true&hide=Visual Basic,hack,glsl" /></a> |
@@ -68,33 +64,34 @@ Profile Stats :
 </div>
 
 
-<div align="center" style="display: flex; justify-content: space-between; border:'2px solid red'">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs&show_icons=true&include_all_commits=true&theme=react" alt="Shaur's github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl" />
-  
-</div>
 
-
-</details>
-
-<br>
-<hr>
-<br>
-
-### Let's Connect : 
 
 <div align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://www.linkedin.com/in/shaurya-jain-24mar/" target="_blank">
+
+  **Profile Visits** ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
+
+<br>
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=shaur-repositories&count_private=true&hide=contribs&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Shaur's github stats" />
+
+  
+</div>
+<hr>
+
+### Reach out to me
+
+<div style="display: flex; justify-content: space-between;" >
+  <a href="https://www.linkedin.com/in/shaurya-jain-24mar/" target="_blank" >
     <img src="./assets/SocialLogos/linkedin.png" width="40" height="40" alt="Linkedin">
   </a>
-  <a href="https://www.instagram.com/_shaur_/" target="_blank">
+  <a href="https://www.instagram.com/_shaur_/" target="_blank" >
     <img src="./assets/SocialLogos/instagram.png" width="40" height="40" alt="Instagram">
   </a>
-  <a href="https://twitter.com/j_shaur" target="_blank">
+  <a href="https://twitter.com/j_shaur" target="_blank" >
     <img src="./assets/SocialLogos/twitter1.png" width="50" height="40" alt="Twitter">
   </a>
-  <a href="https://dev.to/shaur" target="_blank">
+  <a href="https://dev.to/shaur" target="_blank" >
     <img src="./assets/SocialLogos/devto1.png" height="40" width="40" alt="Dev Community Inc.">
   </a>
 <div>
