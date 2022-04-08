@@ -55,7 +55,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 
 #### Coding Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10?&layout=compact)](#)
 
 
 
