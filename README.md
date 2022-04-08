@@ -28,11 +28,11 @@ I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://tkssharma.com/static/e92ee52a822755019731cffc0b44e3d4/1e9e2/graphql.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
 
 <br />
 <br />
@@ -40,7 +40,8 @@ I'm Shaurya Jain a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 
 
-#### Profile Visits ![visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
+#### Profile Visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories)
 
 
 
@@ -57,10 +58,8 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 
 #### Coding Stats
-  
-<a href="#" style="border:1px solid black; border-radius:5px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&layout=compact&theme=buefy&hide_border=true" />
-</a> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories)](#)
+
 
 
 #### Github Stats
