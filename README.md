@@ -51,7 +51,7 @@ I'm a Full Stack Web Developer from India 🇮🇳
 
 <br>
 <div>
-<a href="#">img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl&hide_border=true" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl&hide_border=true" /></a>
 <br><br>
 Break It !!!
 <br>
