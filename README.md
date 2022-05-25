@@ -1,7 +1,6 @@
 <p align="center"><a href="#none"><img width="80%" src="./assets/header1.png" /></a></p>
 
-
-<a href="#none"><img src="./assets/gifs/pcguy.gif" align="right" width="400px" alt="guy on pc"/></a>
+<!-- <p align="right"><a href="#none"><img src="./assets/gifs/pcguy.gif" width="400px" alt="guy on pc"/></a></p> -->
   
 <div>
   
@@ -11,7 +10,7 @@ I'm a Full Stack Web Developer from India 🇮🇳
 
 **ABOUT ME**
 <br>
-
+<a align="right" href="#none"><img align="right" src="./assets/gifs/pcguy.gif" width="400px" alt="guy on pc"/></a>
 - 🔭 Frontend Developer at [Infosys](https://www.infosys.com/).
 - :computer: Currently Working with: MERN Stack and Apache Solr.
 - 📫 Reach me at : shaurya.jain.email@gmail.com.
