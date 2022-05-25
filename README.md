@@ -4,20 +4,19 @@
   
 <div>
   
-# Hi There!!! <a href="#none"><img src="./assets/gifs/handwave.gif" width="35px" alt="hi"></a>
+# Hi There!!! <a href="#none"><img src="./assets/gifs/handwave.gif" width="35px" alt="hi"></a>  
 
 I'm a Full Stack Web Developer from India 🇮🇳
 
-**ABOUT ME**
+**ABOUT ME** 
 <br>
-<a align="right" href="#none"><img align="right" src="./assets/gifs/pcguy.gif" width="400px" alt="guy on pc"/></a>
 - 🔭 Frontend Developer at [Infosys](https://www.infosys.com/).
 - :computer: Currently Working with: MERN Stack and Apache Solr.
 - 📫 Reach me at : shaurya.jain.email@gmail.com.
 - ⚡ Fun fact: I play games on PS5 and go to the GYM very often.
 - ❤️ Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
 </div>
-<br>
+<!-- <br> -->
 
 ## Top Technologies 
 
