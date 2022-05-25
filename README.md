@@ -16,7 +16,7 @@ I'm a Full Stack Web Developer from India 🇮🇳
 - ⚡ Fun fact: I play games on PS5 and go to the GYM very often.
 - ❤️ Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
 </div>
-<!-- <br> -->
+<br>
 
 ## Top Technologies 
 
