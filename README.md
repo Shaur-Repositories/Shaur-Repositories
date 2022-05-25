@@ -1,10 +1,10 @@
 <p align="center"><a href="#none"><img width="80%" src="./assets/header1.png" /></a></p>
 
-<!-- <p align="right"><a href="#none"><img src="./assets/gifs/pcguy.gif" width="400px" alt="guy on pc"/></a></p> -->
+<a href="#none"><img align="right" src="./assets/gifs/pcguy.webp" width="400px" alt="guy on pc"/></a>
   
 <div>
   
-# Hi There!!! <a href="#none"><img src="./assets/gifs/handwave.gif" width="35px" alt="hi"></a>  
+# Hi There!!! <a href="#none"><img src="./assets/gifs/handwave.webp" width="35px" alt="hi"></a>  
 
 I'm a Full Stack Web Developer from India 🇮🇳
 
