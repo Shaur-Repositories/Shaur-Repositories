@@ -10,8 +10,8 @@ I'm a Full Stack Web Developer from India 🇮🇳
 
 **ABOUT ME** 
 <br>
-- 🔭 Frontend Developer at [Infosys](https://www.infosys.com/).
-- :computer: Currently Working with: MERN Stack and Apache Solr.
+- 🔭 Software Engineer at [Dassault Systemes](https://www.3ds.com/).
+- :computer: Currently Working on [ENOVIA](https://www.3ds.com/products-services/enovia/).
 - 📫 Reach me at : shaurya.jain.email@gmail.com.
 - ⚡ Fun fact: I play games on PS5 and go to the GYM very often.
 - ❤️ Hobbies : Reading Books (Not the self-help crap) and Photo Editing.
@@ -49,8 +49,15 @@ I'm a Full Stack Web Developer from India 🇮🇳
 
 <br>
 <div>
-<a href="#none"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl&hide_border=true" /></a>
+
+<!--
+<a href="#none">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaur-repositories&langs_count=10&layout=compact&theme=react&hide=Visual Basic,hack,glsl&hide_border=true"/>
+</a>
 <br><br>
+-->
+
+
 Break It !!!
 <br>
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shaur-repositories.shaur-repositories&left_text=Profile%20Visited)  -->
